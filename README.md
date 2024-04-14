@@ -1,18 +1,20 @@
-### Hi there 👋
+![Header](https://i.imgur.com/InS4dn0.png)
 
-### Languages and Tools:
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hundred%20Points.png" alt="Hundred Points" width="50" height="50" />
+  <p>sabotack</p>
+</h1>
 
-<img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" style="padding-right:10px;"/>
-<img align="left" alt="C#" width="30px" src="https://cdn.cdnlogo.com/logos/c/27/c.svg" style="padding-right:10px;"/>
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<div align="center">
+  <a href="https://github.com/sabotack">
+    <img src="https://komarev.com/ghpvc/?username=sabotack&color=blueviolet" alt="Profile Views">
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/sabotack">
+    <img src="https://github-readme-stats.vercel.app/api?username=sabotack&count_private=true&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true" />
+  </a>
+</div>
 
-<br>
-<br>
-
-![My stats](https://github-readme-stats.vercel.app/api?username=sabotack&count_private=true&show_icons=true&theme=tokyonight)  
+![Footer](https://i.imgur.com/ddjIa8X.png)
