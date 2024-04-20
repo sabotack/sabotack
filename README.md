@@ -4,8 +4,7 @@
 
 <h1 align="center">
   <a href="https://github.com/sabotack">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hundred%20Points.png" alt="Hundred Points" width="50" height="50" />
+  <img src="https://assets-global.website-files.com/646218c67da47160c64a84d5/6463467e4648fab8dc75e706_59.png" width="150" height="150" />
   </a>
   <p>sabotack</p>
 </h1>
